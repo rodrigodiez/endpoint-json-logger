@@ -1,5 +1,5 @@
 # endpoint-json-logger
-Light web server that decodes JSON payloads from requests and logs them. Useful for debugging webhooks
+Light web server that decodes and logs JSON requests. Useful for debugging webhooks
 
 ## Run it
 ```bash
